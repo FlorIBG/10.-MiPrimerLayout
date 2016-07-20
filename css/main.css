@@ -1,0 +1,156 @@
+/* Logo */
+.details{
+	margin-left: 35px;
+}
+/* <!--    Menú  -->  */
+.floating-box {
+    display: inline-block;
+    width: 170px;
+    height: 30px;
+    margin: -2px;
+    padding-top: 4px;
+    border: 1px solid black;
+    left: 100%;
+    float: left;
+    text-align: center;
+    border-right: 0px;
+    border-left: 0px;
+
+}
+.vertical{
+	display: inline-block;
+    width: 50px;
+    height: 30px;
+    margin: -2px;
+    padding-top: 4px;
+    border: 1px solid black;
+    text-align: center;
+    border-right: 0px;
+    border-left: 0px;
+    float: left;
+}
+/* <!-- Imagen grupal --> */
+.grupal{
+	margin-top: 2%;
+	margin-left: 9%;
+	width: 70%;
+	height:70%;
+}
+	/* <!-- Descripción Laboratoria --> */
+hr{
+	margin-top: 2%;
+	border: solid grey 1px;
+	color: grey;
+	width: 10%;
+	margin-left: 40%;
+	margin-bottom: 2%;
+}
+p{
+	text-align: center;
+	font-family: Arial;
+	padding: 10px;
+	width: 40%;
+	margin-left: 25%;	
+}
+	/* <!-- Nuestras Coders --> */
+h2{
+font-family: Courier;
+}
+.codersli{
+	width: 15%;
+	margin-left: 0px;
+	text-align: left;
+	border: solid black 2px;
+}
+.codersnomape{
+	position: absolute;
+	color: white;
+margin: 0%;
+margin-top: 25%;
+}
+.coders{
+float: left;
+ position: relative;
+ left: 2px;
+ margin: 5px;
+}
+.arriba{ 
+clear: both;
+}
+
+/* Coder detail */
+/* Margen */
+.margen{
+	border: solid black 1px;
+	width: 900px;
+	height: 1200px;
+	margin: 5%;
+	margin-left: 10px;
+}
+/* Foto */
+.redondo{
+ margin-left: 35%;
+ margin-top: 4%;
+ padding: 0px;
+ border-radius: 800px;
+}
+/* Encabezado */
+h1{
+	font-family: Century;
+	text-align: center;
+}
+/* Biografia */
+.biografia{
+	text-align: center;
+	margin: 2%;
+	width: 850px;
+}
+/* Habilidades */
+h2, h3{
+	font-family: center;
+	text-align: left;
+	margin-left: 2%;
+}
+/* Cajas habilidades */
+.cajagrande{
+	background-color: white;
+	padding: 10px; 
+	margin: 10px;
+}
+.caja1, .caja2, .caja3{
+	padding: 1px;
+	margin-left: 8%;
+	margin-bottom: 3%;
+}
+.caja1{
+	background-color: grey;
+	width:650px;
+	height: 60px;
+}
+.caja2{
+	background-color: grey;
+	width:450px;
+	height: 60px;
+}
+.caja3{
+	background-color: grey;
+	width:250px;
+	height: 60px;
+}
+.nombrehabi{
+	color: white;
+	font-family: Times New Roman;
+	text-align: left;
+	margin: 0px;
+	margin-top: 2%;
+}
+/* Fotos portafolio */
+.imgdetail{
+	´margin-top: 4%;
+}
+.portimg{
+	width: 240px;
+	height: 140px;
+	margin-left: 10%;
+	margin-top: 10%;
+}
